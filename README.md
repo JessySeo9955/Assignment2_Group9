@@ -6,6 +6,11 @@
 - Repo Description: This is the Github for CST8285 collaborative assignment2. 
 
 # Project Architecture
+
+## SCreenshots 
+<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_history.png" />
+<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_chart.png" />
+
 ## MVC 
 <img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/mvc.png" />
 
