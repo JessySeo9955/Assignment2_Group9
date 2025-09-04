@@ -7,12 +7,13 @@
 
 # Project Architecture
 
-## SCreenshots 
-<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_history.png" />
-<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_chart.png" />
+## Screenshots
+![Page History](https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_history.png)
+![Page Chart](https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/page_chart.png)
+
 
 ## MVC 
-<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/mvc.png" />
+![MVC Diagram](https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/mvc.png)
 
 ## Data Flow
-<img align="right" max-width="100%" src="https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/data_flow.png" />
+![Data Flow Diagram](https://raw.githubusercontent.com/JessySeo9955/Assignment2_Group9/main/.github/images/data_flow.png)
